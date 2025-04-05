@@ -4,6 +4,6 @@ class Simple{
      int x=10;
      int y=20;
      int sum=x-y;
-     System.out.println("SUM is"+sub);   
+     System.out.println("SUM is"+sum);   
     }
 }
